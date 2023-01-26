@@ -1,0 +1,7 @@
+C:\Users\Ruslan\source\repos\CRUD1\Debug\CRUD1.exe.config
+C:\Users\Ruslan\source\repos\CRUD1\CRUD1\Debug\CRUD1.vcxproj.AssemblyReference.cache
+C:\Users\Ruslan\source\repos\CRUD1\CRUD1\Debug\CRUD1.exe.config
+C:\Users\Ruslan\source\repos\CRUD1\CRUD1\Debug\CRUD1.Form1.resources
+C:\Users\Ruslan\source\repos\CRUD1\CRUD1\Debug\CRUD1.vcxproj.GenerateResource.cache
+C:\Users\Ruslan\source\repos\CRUD1\CRUD1\Debug\CRUD1.vcxproj.CopyComplete
+C:\Users\Ruslan\source\repos\CRUD1\CRUD1\Debug\CRUD1.Update.resources
